@@ -2,7 +2,7 @@
 
 ### Personal information
 
-- github account: Rahmadkurniawan3
+- github account: sumanto15
 - Email: rahmadkurniawan15902@gmail.com
 - Arweave Address: 4bjiEYozOj9d5l5n0SCEAy8d3tsSKtWPX3RXNDw-wxg
 - ETH Address: 0x2B384a4bDAF82D8a2e82D7E43e1f936dD7355C10
